@@ -147,6 +147,5 @@ DOMAIN-SUFFIX,vip.688568.xyz
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,hcemby.emby.moe
 DOMAIN-SUFFIX,bestvm.cloud
-DOMAIN-SUFFIX,pt.m-team.cc/login.php
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,pt.m-team.cc
